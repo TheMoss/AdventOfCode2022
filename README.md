@@ -20,7 +20,7 @@ I chose to write down all possible combinations of moves and calculate how many 
 Another dictionary is made to provide scores for the second strategy. Again, the scores are summed up to get the final one.
 
 ## Day 3
-[Advent of Code - Day 3](https://www.youtube.com/watch?v=5z3DbmOuaFI)
+[Advent of Code - Day 3](https://adventofcode.com/2022/day/3)
 ### Part 1
 A rucksack's content is split to two equally sized arrays. The method `Intersect()` is used to get the letter that occurs in both of them. Since the priorities `a-z` and `A-Z` are sorted, it's possible to use ASCII decimal code values for the characters. 
 
